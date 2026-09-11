@@ -82,4 +82,4 @@ Developed in [the SynapseOS monorepo](https://github.com/velle999/SYNAPSE),
 in `syn-remote/`. **This repository is generated from it** — the PKGBUILD, a
 generated `.SRCINFO` and this README — so issues and patches belong there.
 
-syn-remote 0.1.0-8 · GPL-2.0-or-later
+syn-remote 0.1.0-9 · GPL-2.0-or-later
