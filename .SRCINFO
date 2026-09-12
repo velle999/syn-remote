@@ -1,7 +1,7 @@
 pkgbase = syn-remote
 	pkgdesc = Remote desktop for SynapseOS — wayvnc, with the screen woken, the machine held awake while somebody is connected, and a magic packet to wake it when it is not
 	pkgver = 0.1.0
-	pkgrel = 13
+	pkgrel = 14
 	url = https://github.com/velle999/SYNAPSE
 	arch = any
 	license = GPL-2.0-or-later
@@ -22,7 +22,7 @@ pkgbase = syn-remote
 	optdepends = quickshell: the Remote Desktop window — the CLI needs none of it
 	optdepends = syntty: where `saved <name> set` asks for a password
 	optdepends = libsecret: keep saved passwords in a keyring rather than a file
-	source = syn-remote-0.1.0.tar.gz::https://github.com/velle999/syn-remote/releases/download/0.1.0-13/syn-remote-0.1.0.tar.gz
+	source = syn-remote-0.1.0.tar.gz::https://github.com/velle999/syn-remote/releases/download/0.1.0-14/syn-remote-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = syn-remote
